@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(10, 66, 170);
+    
+  }
+
+
+  body {
+    background-color: rgb(230, 248, 248);
+    color: royalblue;
+    
+    padding: 1rem 1rem;
+    margin: 1rem 1rem
+   }
+
+   a {color: cornflowerblue}
