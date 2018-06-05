@@ -13,7 +13,7 @@ h1 {
    }
 
   a {color: cornflowerblue}
-  
+
 #site {
   display: grid;
   grid-template-columns: 3fr 1fr;
@@ -41,7 +41,8 @@ header {
   
   aside {
     grid-area: aside;
-
+    background: rgb(243, 206, 163)
+    
   }
   
   footer {
